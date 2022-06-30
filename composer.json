@@ -1,0 +1,13 @@
+{
+  "name": "xianrenqh/apidoc2-webman",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin xianrenqh/apidoc2-webman",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "xianrenqh\\Apidoc2Webman\\": "src"
+    }
+  }
+}
